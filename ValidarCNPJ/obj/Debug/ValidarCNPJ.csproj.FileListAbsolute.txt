@@ -1,0 +1,10 @@
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\bin\Debug\ValidarCNPJ.exe.config
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\bin\Debug\ValidarCNPJ.exe
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\bin\Debug\ValidarCNPJ.pdb
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.csprojAssemblyReference.cache
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.Form1.resources
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.Properties.Resources.resources
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.csproj.GenerateResource.cache
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.exe
+C:\Users\fernando\OneDrive\Visual Studio\ValidarCNPJ\ValidarCNPJ\obj\Debug\ValidarCNPJ.pdb
